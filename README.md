@@ -1,2 +1,2 @@
-# Registro-b-sico-de-pacientes
+# RegistroBasicoDePacientes
 Registro básico de pacientes utilizando Java
